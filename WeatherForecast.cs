@@ -1,4 +1,4 @@
-// This is the weather forecast class
+// Testing the commit
 namespace GP1_WebApi
 {
     public class WeatherForecast
