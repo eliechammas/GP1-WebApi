@@ -1,4 +1,4 @@
-// Testing
+// a simple test
 namespace GP1_WebApi
 {
     public class WeatherForecast
