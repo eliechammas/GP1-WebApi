@@ -1,4 +1,4 @@
-// Testing the commit
+// Testing
 namespace GP1_WebApi
 {
     public class WeatherForecast
